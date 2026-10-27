@@ -22,6 +22,8 @@ It runs on your machine and doesn't lock you into any model: bring your own API 
 
 Open the app, add a model key (or point it at Ollama), and ask for something real.
 
+![OpenWorker workflow](docs/readme-architecture.svg)
+
 ## How it works
 
 1. Tell OpenWorker the outcome you want - "prepare a customer brief," "untangle my calendar," "draft a report," "check where the release stands across Jira and GitHub."
